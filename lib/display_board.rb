@@ -4,6 +4,6 @@ def display_board
   print "   ", "|", "   ", "|", "   "
   print "\n-----------\n"
   print "   ", "|", "   ", "|", "   "
-  print "-----------"
+  print "\n-----------\n"
   print "   ", "|", "   ", "|", "   "
 end
